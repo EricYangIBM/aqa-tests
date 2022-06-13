@@ -556,7 +556,6 @@ java/foreign/stackwalk/TestStackWalk.java#shenandoah https://github.com/eclipse-
 java/foreign/stackwalk/TestStackWalk.java#zgc https://github.com/eclipse-openj9/openj9/issues/13993 generic-all
 java/foreign/StdLibTest.java https://github.com/eclipse-openj9/openj9/issues/13999 generic-all
 java/foreign/TestDowncall.java https://github.com/eclipse-openj9/openj9/issues/13994 generic-all
-java/foreign/TestHandshake.java https://github.com/eclipse-openj9/openj9/issues/14148 generic-all
 java/foreign/TestIllegalLink.java https://github.com/eclipse-openj9/openj9/issues/14002 generic-all
 java/foreign/TestIntrinsics.java https://github.com/eclipse-openj9/openj9/issues/13994 generic-all
 java/foreign/TestMemoryAccess.java https://github.com/eclipse-openj9/openj9/issues/14134 generic-all
